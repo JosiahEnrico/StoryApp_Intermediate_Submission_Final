@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySubmission2</string>
+
+    <string name="signup_message">Lengkapi data berikut untuk mendaftar.</string>
+    <string name="login_message">Selamat datang kembali! Masuk untuk menjadi bagian dari komunitas kami yang menginspirasi.</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="no_account">Belum punya akun? Daftar</string>
+    <string name="have_account">Sudah punya akun? Masuk</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="camera_x">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="profile">profil</string>
+    <string name="no_permission">Tidak Ada Izin</string>
+    <string name="fill_in">Harap Isi</string>
+    <string name="select_image">Pilih Gambar Dahulu</string>
+    <string name="invalid_email">Alamat Email Salah</string>
+    <string name="minimum_password">Karakter Password Minimal 6</string>
+    <string name="minimum_name">Karakter Nama Minimal 2</string>
+    <string name="language">Bahasa</string>
+    <string name="image">gambar</string>
+    <string name="signup">daftar</string>
+    <string name="login">masuk</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="include_location">Gunakan Lokasi Anda Saat ini</string>
+    <string name="maps">peta</string>
+    <string name="uploaded_photo">Foto Terunggah</string>
+    <string name="retrofit_failure">Gagal menggunakan Retrofit</string>
+    <string name="input_email">Harap masukan email dengan benar</string>
+    <string name="input_password">Harap masukan password dengan benar</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="welcome">Selamat datang!!</string>
+    <string name="ok_continue">Lanjut</string>
+    <string name="please_login">Silakan masuk untuk melanjutkan</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellit</string>
+    <string name="terrain_type">Tanah</string>
+    <string name="story_title">Cerita Baru</string>
+    <string name="map_title">Peta Cerita</string>
+    <string name="detail_title">Detail Cerita</string>
+    <string name="home_title">Beranda</string>
+</resources>

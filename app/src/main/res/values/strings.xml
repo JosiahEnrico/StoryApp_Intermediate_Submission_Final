@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MySubmission2</string>
+
+    <string name="signup_page" translatable="false">Register</string>
+    <string name="signup_message">Please complete your information to sign up</string>
+    <string name="login_message">Welcome back! Login to be part of our inspiring community.</string>
+    <string name="login_page" translatable="false">Login</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="no_account">Don\'t have an Account? Register</string>
+    <string name="have_account">Have an Account? Login</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="camera_x">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="profile">profile</string>
+    <string name="no_permission">Doesn\'t Get Permission</string>
+    <string name="fill_in">Please Fill In</string>
+    <string name="select_image">Please Select Image First</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="minimum_password">Password Minimum Character is 6</string>
+    <string name="minimum_name">Name Minimum Character is 2</string>
+    <string name="language">Language</string>
+    <string name="image">image</string>
+    <string name="signup">signup</string>
+    <string name="login">login</string>
+    <string name="retry">Retry</string>
+    <string name="logo" translatable="false">logo</string>
+    <string name="include_location">Include Your Current Location</string>
+    <string name="maps">map</string>
+    <string name="splash_illustration" translatable="false">splash</string>
+    <string name="uploaded_photo">Uploaded Photo</string>
+    <string name="fab" translatable="false">fab</string>
+    <string name="gradient" translatable="false">gradient</string>
+    <string name="retrofit_failure">Fail to initiate Retrofit</string>
+    <string name="input_email">Please input email</string>
+    <string name="input_password">Please input password</string>
+    <string name="login_success">Login Success</string>
+    <string name="welcome">Welcome!</string>
+    <string name="ok_continue">Continue</string>
+    <string name="please_login">Please login to continue</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type" translatable="false">Hybrid</string>
+    <string name="story_title">New Story</string>
+    <string name="map_title">Stories Map</string>
+    <string name="detail_title">Detail Story</string>
+    <string name="home_title">Home</string>
+
+</resources>
